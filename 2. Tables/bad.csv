@@ -1,0 +1,194 @@
+,id,index,period,timestamp,minute,second,type,possession,possession_team,play_pattern,off_camera,team,player,position,duration,match_id,bad_behaviour_card,possession_team_id,team_id,player_id
+0,22a3eb45-5514-4be7-aa5e-6e7fb0259684,1821,2,00:09:39.672,54,39,Bad Behaviour,106,Sunderland,From Kick Off,True,Sunderland,Costel Fane Pantilimon,Goalkeeper,0.0,3754245,Yellow Card,41,41,6871
+1,2cdae549-3bd6-4556-9a54-c0ba870942c9,1839,2,00:09:57.975,54,57,Bad Behaviour,107,West Bromwich Albion,Regular Play,,West Bromwich Albion,Claudio Ariel Yacob,Left Center Midfield,0.0,3754245,Yellow Card,27,27,3967
+2,74281559-61e2-44a0-887e-13dd697eb242,2834,2,00:33:33.262,78,33,Bad Behaviour,172,Aston Villa,Regular Play,,Aston Villa,Jordan Ayew,Left Midfield,0.0,3754136,Yellow Card,59,59,3450
+3,934e17d8-dfb6-477c-921d-ca9b1356c6d0,3289,2,00:44:26.630,89,26,Bad Behaviour,183,Manchester City,From Free Kick,,Manchester City,Kevin De Bruyne,Right Wing,0.0,3754045,Yellow Card,36,36,3089
+4,386728cc-f134-4263-92bd-5fbe66e04f6e,2669,2,00:35:04.928,80,4,Bad Behaviour,160,Norwich City,Regular Play,,Norwich City,Vadis Odjidja-Ofoe,Right Midfield,0.0,3754052,Yellow Card,56,56,23742
+5,994c7ccd-d8fe-43b2-81d4-9e3d7274fced,3162,2,00:49:47.563,94,47,Bad Behaviour,188,West Bromwich Albion,From Throw In,,Norwich City,Jonathan Howson,Left Center Midfield,0.0,3754052,Yellow Card,27,56,9578
+6,36e57396-5c2b-4af6-a1d7-7085f0132deb,3055,2,00:43:09.860,88,9,Bad Behaviour,174,Stoke City,From Corner,,Stoke City,Erik Pieters,Left Back,0.0,3754091,Yellow Card,30,30,3467
+7,89a59e49-3c8c-449a-9576-3c174a45f9b1,3056,2,00:43:10.248,88,10,Bad Behaviour,174,Stoke City,From Corner,,Watford,Odion Jude Ighalo,Left Center Forward,0.0,3754091,Yellow Card,30,23,5458
+8,83ce6dec-a4cf-44b1-b71e-4f0da0797459,3142,2,00:44:01.782,89,1,Bad Behaviour,183,AFC Bournemouth,Regular Play,,Stoke City,Glenn Whelan,Right Defensive Midfield,0.0,3754339,Yellow Card,28,30,9625
+9,93401031-81d4-41e7-8205-181de2686b40,2472,2,00:25:00.102,70,0,Bad Behaviour,147,Stoke City,From Kick Off,,Stoke City,Bojan Krkíc Pérez,Center Attacking Midfield,0.0,3754146,Yellow Card,30,30,4913
+10,691c1bf7-1c5f-4319-b2d4-6bbe8b3b4a72,3208,2,00:37:40.057,82,40,Bad Behaviour,179,AFC Bournemouth,From Corner,True,Watford,Heurelho da Silva Gomes,Goalkeeper,0.0,3754278,Yellow Card,28,23,3522
+11,e3d03990-a0e5-4e21-bf18-2030c2d22604,1992,2,00:11:20.355,56,20,Bad Behaviour,118,Crystal Palace,From Throw In,,Sunderland,Jermain Defoe,Left Center Forward,0.0,3753979,Yellow Card,31,41,3337
+12,a8f9fcb6-af4d-48be-ac35-1e1112bb2ba2,3463,2,00:41:59.641,86,59,Bad Behaviour,166,AFC Bournemouth,Regular Play,,Swansea City,Jonjo Shelvey,Center Attacking Midfield,0.0,3753972,Yellow Card,28,26,3057
+13,cfcc2b3c-cdc3-46ee-95fe-62fed4ec873f,3186,2,00:36:55.112,81,55,Bad Behaviour,148,Newcastle United,From Throw In,,Newcastle United,Jack Colback,Left Defensive Midfield,0.0,3753974,Yellow Card,37,37,9649
+14,806dd305-65c6-4d18-b0a6-c149e08ba4e4,2237,2,00:08:40.255,53,40,Bad Behaviour,93,Arsenal,From Corner,,Arsenal,Santiago Cazorla González,Left Defensive Midfield,0.0,3754038,Yellow Card,1,1,11386
+15,73440239-6bab-4aae-b3db-7b4625374a66,941,1,00:24:31.439,24,31,Bad Behaviour,51,Stoke City,Regular Play,,Stoke City,Ibrahim Afellay,Left Wing,0.0,3754007,Red Card,30,30,4891
+16,b8639366-9b24-4695-9223-cbb974cf6cbc,1134,1,00:30:52.787,30,52,Bad Behaviour,57,West Bromwich Albion,From Goal Kick,,Stoke City,Charlie Adam,Left Wing,0.0,3754007,Red Card,27,30,3636
+17,6a6c2c24-b32e-4a23-b3af-4b452615f608,1940,2,00:01:19.891,46,19,Bad Behaviour,87,Watford,From Free Kick,,Watford,Allan Romeo Nyom,Right Back,0.0,3753999,Yellow Card,23,23,3991
+18,d3dbca64-984e-4d88-9236-e6ed88f3bfa8,2482,2,00:17:03.283,62,3,Bad Behaviour,117,Arsenal,Regular Play,,Watford,Heurelho da Silva Gomes,Goalkeeper,0.0,3753999,Yellow Card,1,23,3522
+19,0c2491f2-2ba8-4cc4-b7ad-0988c4972be9,1091,1,00:30:20.602,30,20,Bad Behaviour,76,Swansea City,Regular Play,,Aston Villa,Micah Richards,Right Center Back,0.0,3754017,Yellow Card,26,59,42700
+20,7e2d6057-123d-4872-8199-c4252e1e96ee,1092,1,00:30:25.076,30,25,Bad Behaviour,76,Swansea City,Regular Play,,Swansea City,Ashley Williams,Left Center Back,0.0,3754017,Yellow Card,26,26,3644
+21,eb877af1-93bb-4428-a4d2-566f597489e3,2712,2,00:47:44.944,92,44,Bad Behaviour,170,West Bromwich Albion,From Throw In,,Leicester City,Kasper Schmeichel,Goalkeeper,0.0,3754006,Yellow Card,27,22,3815
+22,6a518707-fcc7-44bf-a7cf-ae996deee511,2950,2,00:46:06.895,91,6,Bad Behaviour,179,Leicester City,From Throw In,,Leicester City,Jeffrey Schlupp,Left Back,0.0,3754023,Yellow Card,22,22,3520
+23,5877868a-016e-459b-a11f-4cbc19cf8d7f,1683,1,00:48:49.268,48,49,Bad Behaviour,87,West Ham United,Regular Play,,Liverpool,Philippe Coutinho Correia,Left Wing,0.0,3753984,Yellow Card,40,24,3501
+24,a2460e39-c356-443f-9e34-0a606dc79887,2941,2,00:32:49.447,77,49,Bad Behaviour,163,Liverpool,From Goal Kick,,West Ham United,Mark Noble,Left Center Midfield,0.0,3753984,Red Card,24,40,3874
+25,689b407c-302e-461e-8b1d-f82df0a2b713,2971,2,00:35:32.275,80,32,Bad Behaviour,165,Liverpool,From Free Kick,,West Ham United,Manuel Lanzini,Right Wing,0.0,3753984,Yellow Card,24,40,3595
+26,9f4a232d-0a1d-4e68-bf5d-389e46f8549d,3253,2,00:45:31.995,90,31,Bad Behaviour,169,Southampton,Regular Play,,Manchester City,Aleksandar Kolarov,Left Back,0.0,3754028,Yellow Card,25,36,5596
+27,eaad3852-f4dc-4c44-a8d0-9d2e1e9129cd,1489,1,00:34:43.046,34,43,Bad Behaviour,62,Chelsea,Regular Play,,Chelsea,Willian Borges da Silva,Right Wing,0.0,3753996,Yellow Card,33,33,3472
+28,c920d568-5add-4eb9-af9d-e936d6fa50e7,1316,1,00:39:42.061,39,42,Bad Behaviour,84,West Ham United,Regular Play,,West Ham United,Dimitri Payet,Left Wing,0.0,3754067,Yellow Card,40,40,3491
+29,86ba92db-7988-4406-8d9f-61ef34614907,2171,2,00:17:15.969,62,15,Bad Behaviour,128,Newcastle United,From Keeper,,Stoke City,Philipp Wollscheid,Left Center Back,0.0,3754090,Yellow Card,37,30,40121
+30,0a948d9e-5c04-4c6b-b28e-4ff548c11255,2172,2,00:18:13.667,63,13,Bad Behaviour,128,Newcastle United,From Keeper,,Newcastle United,Aleksandar Mitrović,Right Center Forward,0.0,3754090,Yellow Card,37,37,4269
+31,7de88d0a-ab0c-4339-81ab-67c893f651ca,1127,1,00:34:37.469,34,37,Bad Behaviour,67,Everton,Regular Play,,Liverpool,Emre Can,Right Center Back,0.0,3754060,Yellow Card,29,24,3493
+32,78c5198d-4249-44e7-af2d-67e4131e23de,1128,1,00:34:42.521,34,42,Bad Behaviour,67,Everton,Regular Play,,Everton,Ross Barkley,Center Attacking Midfield,0.0,3754060,Yellow Card,29,29,4275
+33,8aef51fe-335d-4d46-83e9-9d549173b0b2,3009,2,00:45:16.704,90,16,Bad Behaviour,188,Everton,From Throw In,,Liverpool,Mamadou Sakho,Left Center Back,0.0,3754060,Yellow Card,29,24,3483
+34,846c89bf-d113-4508-b670-6df2ebda8f23,3010,2,00:45:16.871,90,16,Bad Behaviour,188,Everton,From Throw In,,Everton,Romelu Lukaku Menama,Center Forward,0.0,3754060,Yellow Card,29,29,3289
+35,1f899ed4-26a1-49e5-881d-6c559da351c3,3715,2,00:47:57.788,92,57,Bad Behaviour,174,Swansea City,From Corner,,Liverpool,Simon Mignolet,Goalkeeper,0.0,3754047,Yellow Card,26,24,3539
+36,65b697f8-aa24-41d5-ba35-bc101ea53860,3391,2,00:49:06.412,94,6,Bad Behaviour,180,Tottenham Hotspur,Regular Play,,Chelsea,César Azpilicueta Tanco,Left Back,0.0,3754093,Yellow Card,38,33,3957
+37,9b7a9956-ecab-4a7a-8d99-b3c7b83879bb,612,1,00:17:03.151,17,3,Bad Behaviour,39,Everton,From Goal Kick,,Sunderland,Jermain Defoe,Right Center Forward,0.0,3754082,Yellow Card,29,41,3337
+38,c392d250-773d-49e1-aaa5-a77adc95ac1f,2090,2,00:08:41.653,53,41,Bad Behaviour,109,Everton,Regular Play,,Everton,Gerard Deulofeu Lázaro,Right Wing,0.0,3754082,Yellow Card,29,29,3726
+39,da3d4479-1d83-4fd4-aae3-69224fdae9ec,2812,2,00:41:40.928,86,40,Bad Behaviour,172,West Bromwich Albion,From Corner,,Crystal Palace,Wilfried Zaha,Right Wing,0.0,3754099,Yellow Card,27,31,3507
+40,b20dfc2c-7cc8-4805-bef2-f48207677d37,3025,2,00:40:01.040,85,1,Bad Behaviour,155,Norwich City,Regular Play,True,Stoke City,Erik Pieters,Left Back,0.0,3754104,Yellow Card,56,30,3467
+41,d6754af8-a37a-4d54-a757-c4b32bbd1af5,3223,2,00:44:43.035,89,43,Bad Behaviour,177,Southampton,From Corner,,Aston Villa,Bradley Guzan,Goalkeeper,0.0,3754113,Yellow Card,25,59,12608
+42,02a5df7b-2cf6-4034-be84-ad0d84023c2a,2358,2,00:18:29.844,63,29,Bad Behaviour,138,Everton,Regular Play,,Everton,Steven Naismith,Left Wing,0.0,3754105,Yellow Card,29,29,9528
+43,5ebeb6b6-a0b9-4ec7-bc4c-1cd68e919314,2703,2,00:31:03.106,76,3,Bad Behaviour,158,Everton,From Throw In,,Everton,Arouna Koné,Left Wing,0.0,3754105,Yellow Card,29,29,26696
+44,371bf887-7d78-4e74-9682-cfff56c15f7f,2641,2,00:28:37.777,73,37,Bad Behaviour,172,Aston Villa,Regular Play,,Chelsea,Willian Borges da Silva,Right Midfield,0.0,3754115,Yellow Card,59,33,3472
+45,b979d44e-cf83-4f61-bda0-0842ace7c97d,2969,2,00:38:49.016,83,49,Bad Behaviour,178,AFC Bournemouth,Regular Play,,AFC Bournemouth,Harry Arter,Right Center Midfield,0.0,3754162,Yellow Card,28,28,3304
+46,381349bb-d9f3-4307-bd41-7b3a27ae92c2,3287,2,00:50:50.773,95,50,Bad Behaviour,204,AFC Bournemouth,From Free Kick,,AFC Bournemouth,Artur Boruc,Goalkeeper,0.0,3754162,Yellow Card,28,28,20074
+47,9adc6d9f-d450-4d89-89d2-bad1470b63ad,1369,1,00:46:40.249,46,40,Bad Behaviour,74,Sunderland,Regular Play,True,Newcastle United,Jack Colback,Right Defensive Midfield,0.0,3754119,Yellow Card,41,37,9649
+48,b106c36f-ce6d-4e6a-b876-027141612463,1864,2,00:06:14.013,51,14,Bad Behaviour,106,Crystal Palace,Regular Play,,Stoke City,Xherdan Shaqiri,Right Wing,0.0,3754153,Yellow Card,31,30,3533
+49,0d2cffb5-fdb6-43ab-a83b-99e61333cdeb,2927,2,00:47:20.084,92,20,Bad Behaviour,163,Norwich City,Regular Play,,Aston Villa,Micah Richards,Right Center Back,0.0,3754130,Yellow Card,56,59,42700
+50,49554250-346c-4579-94bb-53fb866881ae,2928,2,00:47:27.150,92,27,Bad Behaviour,163,Norwich City,Regular Play,,Norwich City,Russell Martin,Right Back,0.0,3754130,Yellow Card,56,56,21212
+51,46e2b838-603d-4c78-9145-6484bbfda91c,2617,2,00:40:18.982,85,18,Bad Behaviour,138,Watford,From Throw In,,Watford,Troy Deeney,Right Center Forward,0.0,3754178,Yellow Card,23,23,3454
+52,c8fdd461-e440-4750-bb84-b91d9d873347,2945,2,00:52:39.215,97,39,Bad Behaviour,157,Watford,From Throw In,,Watford,Nathan Aké,Left Back,0.0,3754178,Yellow Card,23,23,3306
+53,d581e0d5-eb2b-4df5-9f66-27ac5b6af955,2946,2,00:53:07.917,98,7,Bad Behaviour,157,Watford,From Throw In,,Aston Villa,Carlos Alberto Sánchez Moreno,Center Defensive Midfield,0.0,3754178,Yellow Card,23,59,5685
+54,d9e18b34-0b36-4cad-b39d-b580f9629f9d,3159,2,00:36:14.592,81,14,Bad Behaviour,172,AFC Bournemouth,Regular Play,,AFC Bournemouth,Dan Gosling,Right Center Midfield,0.0,3754157,Yellow Card,28,28,3343
+55,032b3cd0-9254-4df9-9ff6-afe882feeaa9,1668,1,00:44:54.536,44,54,Bad Behaviour,88,Chelsea,Regular Play,,Arsenal,Gabriel Armando de Abreu,Right Center Back,0.0,3754217,Yellow Card,33,1,6746
+56,adca7c2c-59c8-4984-a726-2a5a137b2f8f,1669,1,00:44:54.694,44,54,Bad Behaviour,88,Chelsea,Regular Play,,Chelsea,Diego da Silva Costa,Center Forward,0.0,3754217,Yellow Card,33,33,5198
+57,b4724f96-9ab0-449e-b96f-90e0a9ac354d,1670,1,00:45:44.427,45,44,Bad Behaviour,88,Chelsea,Regular Play,,Arsenal,Gabriel Armando de Abreu,Right Center Back,0.0,3754217,Red Card,33,1,6746
+58,7065a31e-a94c-49a5-87de-d2f0ac0bf9e9,2017,2,00:04:11.956,49,11,Bad Behaviour,95,Newcastle United,Regular Play,,Newcastle United,Georginio Wijnaldum,Center Attacking Midfield,0.0,3754205,Yellow Card,37,37,3567
+59,6b86c811-19bb-4503-8b0b-34058fa39e71,3232,2,00:35:17.496,80,17,Bad Behaviour,149,Swansea City,Regular Play,,Swansea City,Jonjo Shelvey,Left Center Midfield,0.0,3754221,Yellow Card,26,26,3057
+60,835dc727-e331-4649-883b-aaaf921fc5dc,1763,1,00:39:36.209,39,36,Bad Behaviour,67,Manchester City,Regular Play,,Liverpool,Nathaniel Edwin Clyne,Right Back,0.0,3754208,Yellow Card,36,24,4590
+61,661af1a7-5bf8-4eff-8d9e-5ce72036910c,3232,2,00:44:34.915,89,34,Bad Behaviour,162,Aston Villa,From Corner,,Sunderland,Costel Fane Pantilimon,Goalkeeper,0.0,3754204,Yellow Card,59,41,6871
+62,48a4dc65-6126-4606-b65a-4ae5409eb359,2263,2,00:18:30.436,63,30,Bad Behaviour,117,AFC Bournemouth,From Throw In,,West Bromwich Albion,Darren Fletcher,Right Center Midfield,0.0,3754219,Yellow Card,28,27,4022
+63,e2c7726b-11cc-42d6-951c-77f06bdcd2bb,3032,2,00:49:07.867,94,7,Bad Behaviour,173,West Bromwich Albion,From Throw In,,West Bromwich Albion,José Salomón Rondón Giménez,Center Forward,0.0,3754219,Red Card,27,27,4041
+64,6910dfeb-156d-4e0c-9061-9da3b50723a6,3033,2,00:49:59.853,94,59,Bad Behaviour,173,West Bromwich Albion,From Throw In,,AFC Bournemouth,Adam Smith,Right Back,0.0,3754219,Yellow Card,27,28,6409
+65,9fc703ef-f021-426c-ad97-f917305eea6d,3201,2,00:41:01.751,86,1,Bad Behaviour,178,Manchester City,Regular Play,,Manchester City,Samir Nasri,Left Wing,0.0,3754233,Yellow Card,36,36,20253
+66,637887d9-6766-4ea0-b060-316435bc658c,2902,2,00:45:34.597,90,34,Bad Behaviour,177,Sunderland,Regular Play,True,Leicester City,Jeffrey Schlupp,Left Back,0.0,3754237,Yellow Card,41,22,3520
+67,aadc9007-633f-4dc8-bbae-29092795a144,2206,2,00:24:51.880,69,51,Bad Behaviour,148,Crystal Palace,Regular Play,,Watford,José Manuel Jurado Marín,Left Midfield,0.0,3754266,Yellow Card,31,23,6870
+68,ee419dcc-0f42-4f13-a6e5-54c991b2b551,2863,2,00:49:04.818,94,4,Bad Behaviour,197,Watford,From Throw In,,Crystal Palace,Wayne Hennessey,Goalkeeper,0.0,3754266,Yellow Card,23,31,3488
+69,0859edfd-80bd-4d76-9f80-034da1f3250f,1522,1,00:45:02.554,45,2,Bad Behaviour,106,West Ham United,From Throw In,,Chelsea,Francesc Fàbregas i Soler,Center Attacking Midfield,0.0,3754288,Yellow Card,40,33,3478
+70,f087b537-cccb-46f2-8685-6ee28432a6dd,1523,1,00:45:05.092,45,5,Bad Behaviour,106,West Ham United,From Throw In,,Chelsea,John Terry,Left Center Back,0.0,3754288,Yellow Card,40,33,20287
+71,d70d29e5-a5d4-4fac-ac5c-83bb441e5171,1400,1,00:39:49.568,39,49,Bad Behaviour,71,Watford,Regular Play,True,Watford,Etienne Capoue,Left Defensive Midfield,0.0,3754273,Yellow Card,23,23,3721
+72,91325f58-dd5c-4768-b6e8-44a99eea73ab,2875,2,00:39:47.410,84,47,Bad Behaviour,175,Watford,Regular Play,,West Ham United,James Tomkins,Right Center Back,0.0,3754273,Yellow Card,23,40,3316
+73,b1f4d522-aba9-4d65-b14b-0e47ff6ea000,2277,2,00:10:54.245,55,54,Bad Behaviour,116,Everton,Regular Play,,Tottenham Hotspur,Bamidele Alli,Right Wing,0.0,3754268,Yellow Card,29,38,3094
+74,7db08478-3e75-46b8-9c70-e3ac68c6da97,3312,2,00:45:25.822,90,25,Bad Behaviour,181,Everton,From Throw In,,Tottenham Hotspur,Nacer Chadli,Left Wing,0.0,3754268,Yellow Card,29,38,4831
+75,81d06b9d-1d8d-43b4-997b-9e75264fe3f3,2878,2,00:46:16.111,91,16,Bad Behaviour,195,Watford,From Goal Kick,,Watford,Odion Jude Ighalo,Right Center Forward,0.0,3754286,Yellow Card,23,23,5458
+76,d1e65a9f-ec54-4165-9ad6-affd88c3b396,2278,2,00:17:55.199,62,55,Bad Behaviour,135,Tottenham Hotspur,From Throw In,True,Watford,Troy Deeney,Right Center Forward,0.0,3754291,Yellow Card,38,23,3454
+77,95c5b1cc-5ef2-4924-a43e-fd8ad9205ca5,2947,2,00:35:22.177,80,22,Bad Behaviour,165,Watford,Regular Play,,Tottenham Hotspur,Toby Alderweireld,Right Center Back,0.0,3754291,Yellow Card,23,38,20005
+78,ad20413a-7832-48d6-9620-c898457493d0,661,1,00:17:01.524,17,1,Bad Behaviour,37,West Ham United,From Free Kick,,West Bromwich Albion,Jonas Olsson,Left Center Back,0.0,3754235,Yellow Card,40,27,20527
+79,de09db10-9785-432c-a782-3f0f5a794b01,3062,2,00:40:26.346,85,26,Bad Behaviour,189,West Bromwich Albion,From Throw In,,West Bromwich Albion,Callum McManaman,Left Wing,0.0,3754279,Yellow Card,27,27,9551
+80,c0356717-841c-4940-b61c-77d748c6a92f,3063,2,00:40:52.663,85,52,Bad Behaviour,189,West Bromwich Albion,From Throw In,,Swansea City,Àngel Rangel Zaragoza,Right Back,0.0,3754279,Yellow Card,27,26,3973
+81,4c15ddae-5ab3-4e4d-a3ae-b8ec08b865eb,3229,2,00:41:42.999,86,42,Bad Behaviour,177,Swansea City,Regular Play,,West Ham United,Carl Jenkinson,Right Midfield,0.0,3754259,Yellow Card,26,40,21254
+82,06dcf9cb-3dd7-4c7f-a9fe-c989a4e03734,2290,2,00:17:40.951,62,40,Bad Behaviour,126,Norwich City,From Keeper,,Leicester City,Robert Huth,Right Center Back,0.0,3754335,Yellow Card,56,22,40123
+83,dd11a4f5-3897-4e22-864f-4f432b9b1aff,827,1,00:24:12.245,24,12,Bad Behaviour,47,AFC Bournemouth,From Throw In,,AFC Bournemouth,Adam Smith,Left Back,0.0,3754315,Yellow Card,28,28,6409
+84,0beb06b5-5b9e-44cc-811e-7823147a2935,1031,1,00:26:57.317,26,57,Bad Behaviour,56,Southampton,Regular Play,,Norwich City,Steven Whittaker,Right Back,0.0,3754337,Yellow Card,25,56,11124
+85,206fdf9f-0c05-45f6-a7c2-d8504ee9223d,3371,2,00:45:50.730,90,50,Bad Behaviour,156,Arsenal,Regular Play,,West Bromwich Albion,Glyn Oliver Myhill,Goalkeeper,0.0,3754301,Yellow Card,1,27,5108
+86,7e5b4383-6fd6-4be6-ad6e-3ae8d289dffb,1560,1,00:45:42.886,45,42,Bad Behaviour,95,Liverpool,From Free Kick,,Liverpool,Adam David Lallana,Right Wing,0.0,3754343,Yellow Card,24,24,4090
+87,bc317cb9-4701-41b6-82c3-8d0d483387fc,2491,2,00:21:14.166,66,14,Bad Behaviour,147,West Ham United,Regular Play,,West Ham United,Mark Noble,Left Defensive Midfield,0.0,3754109,Yellow Card,40,40,3874
+88,46a8cf33-a699-47c2-9503-a7f448f152c4,2492,2,00:21:24.366,66,24,Bad Behaviour,147,West Ham United,Regular Play,,Tottenham Hotspur,Bamidele Alli,Center Attacking Midfield,0.0,3754109,Yellow Card,40,38,3094
+89,d18fa399-3b42-4537-8b64-76df73106ad5,2773,2,00:29:41.011,74,41,Bad Behaviour,171,West Ham United,From Throw In,,Tottenham Hotspur,Kyle Walker,Right Back,0.0,3754109,Yellow Card,40,38,3205
+90,36e43c10-c770-4480-ab2c-d54782589097,2774,2,00:29:49.573,74,49,Bad Behaviour,171,West Ham United,From Throw In,,West Ham United,Diafra Sakho,Right Wing,0.0,3754109,Yellow Card,40,40,3962
+91,7a57de83-6492-483c-9bf2-2fa7303cbe5a,3440,2,00:47:58.503,92,58,Bad Behaviour,206,Southampton,From Throw In,,Southampton,Graziano Pellè,Right Center Forward,0.0,3754247,Yellow Card,25,25,11062
+92,1041b03c-320d-4e5b-bb7f-5239f41ba744,2584,2,00:28:24.825,73,24,Bad Behaviour,157,Southampton,From Goal Kick,,Southampton,Ryan Bertrand,Left Back,0.0,3754000,Yellow Card,25,25,20045
+93,b7ef358d-3324-4246-8ad9-61a7f7716145,3290,2,00:38:56.425,83,56,Bad Behaviour,166,Swansea City,From Throw In,True,Newcastle United,Aleksandar Mitrović,Right Midfield,0.0,3754344,Yellow Card,26,37,4269
+94,2e618b96-8f87-4d48-a8b7-78ea705d22c8,2616,2,00:30:10.108,75,10,Bad Behaviour,159,AFC Bournemouth,Regular Play,True,AFC Bournemouth,Artur Boruc,Goalkeeper,0.0,3754131,Yellow Card,28,28,20074
+95,42972798-9d68-47f9-8dbf-9362a9c0d12e,2665,2,00:20:18.741,65,18,Bad Behaviour,144,Watford,Regular Play,,Watford,José Holebas,Left Back,0.0,3754300,Yellow Card,23,23,3725
+96,e9710363-a66f-40b2-9c3d-d08c2039cbf5,2719,2,00:40:37.035,85,37,Bad Behaviour,187,Crystal Palace,From Throw In,,Aston Villa,Leandro Bacuna,Right Back,0.0,3754190,Yellow Card,31,59,9533
+97,baca253c-489e-4780-8d94-712e262b53a7,1049,1,00:28:34.386,28,34,Bad Behaviour,47,Leicester City,Regular Play,,Tottenham Hotspur,Mousa Sidi Yaya Dembélé,Right Wing,0.0,3753987,Yellow Card,22,38,3037
+98,f2757176-2c98-4fe7-a0bf-4f103f20df36,3710,2,00:39:30.074,84,30,Bad Behaviour,183,Arsenal,From Corner,True,Liverpool,Simon Mignolet,Goalkeeper,0.0,3754129,Yellow Card,1,24,3539
+99,b99674b3-e452-4d0d-aacf-0f6248cce338,3159,2,00:36:14.296,81,14,Bad Behaviour,172,Swansea City,Regular Play,,Sunderland,Patrick van Aanholt,Left Back,0.0,3754180,Yellow Card,26,41,3321
+100,fcc86660-683d-4e18-83ac-a62ceb74ad0a,2366,2,00:25:44.106,70,44,Bad Behaviour,126,West Bromwich Albion,From Throw In,,West Bromwich Albion,Callum McManaman,Right Midfield,0.0,3754059,Yellow Card,27,27,9551
+101,d6d73c0a-aec2-4621-a793-4415fd8bfd95,3602,2,00:41:48.813,86,48,Bad Behaviour,187,Southampton,Regular Play,,Southampton,Sadio Mané,Right Wing,0.0,3754064,Yellow Card,25,25,3629
+102,6b95f8a7-9f96-4b2d-b49b-3cbd1039a1be,1642,2,00:01:27.932,46,27,Bad Behaviour,91,West Bromwich Albion,From Throw In,,West Bromwich Albion,Craig Gardner,Left Midfield,0.0,3754175,Yellow Card,27,27,9485
+103,5ce6ad9a-2345-4ec5-bab2-9748bff42292,2889,2,00:43:22.226,88,22,Bad Behaviour,168,Sunderland,Regular Play,True,West Bromwich Albion,Jonathan Grant Evans,Left Center Back,0.0,3754175,Yellow Card,41,27,11012
+104,ea1c1d88-1af9-4fdf-8f55-036e6143d691,1785,1,00:47:55.602,47,55,Bad Behaviour,90,Chelsea,From Free Kick,True,West Ham United,Angelo Obinze Ogbonna,Left Center Back,0.0,3753973,Yellow Card,33,40,3843
+105,207a7edf-0465-4660-b5c3-de502dde68e6,3324,2,00:43:38.336,88,38,Bad Behaviour,187,Chelsea,Other,,West Ham United,Adrián San Miguel del Castillo,Goalkeeper,0.0,3753973,Yellow Card,33,40,3623
+106,943d3fe4-9466-4409-8006-0af271c0b46d,3341,2,00:45:38.163,90,38,Bad Behaviour,189,West Ham United,From Throw In,,Chelsea,Willian Borges da Silva,Right Wing,0.0,3753973,Yellow Card,40,33,3472
+107,39ba455f-1d10-4875-a1a3-9b0ee0cae10f,3342,2,00:45:42.329,90,42,Bad Behaviour,189,West Ham United,From Throw In,,Chelsea,Francesc Fàbregas i Soler,Right Defensive Midfield,0.0,3753973,Yellow Card,40,33,3478
+108,7b54e0ea-0307-4119-8c28-900d903df9e1,3254,2,00:42:44.066,87,44,Bad Behaviour,177,Southampton,Regular Play,,Leicester City,Christian Fuchs,Left Back,0.0,3753982,Yellow Card,25,22,3812
+109,9d5a02ec-b418-4765-b4cd-3d88c60afc47,3078,2,00:35:59.465,80,59,Bad Behaviour,166,Liverpool,Regular Play,,Stoke City,Ryan Shawcross,Right Center Back,0.0,3753986,Yellow Card,24,30,4035
+110,d6f5e10a-d80f-4f19-b785-47e1e2549fcf,1865,2,00:02:32.046,47,32,Bad Behaviour,105,AFC Bournemouth,Regular Play,,AFC Bournemouth,Harry Arter,Left Center Midfield,0.0,3754004,Yellow Card,28,28,3304
+111,3fb8ba4f-c805-400c-8228-bc1eeda1a6ca,2690,2,00:22:35.181,67,35,Bad Behaviour,136,West Ham United,From Free Kick,,West Ham United,Dimitri Payet,Center Attacking Midfield,0.0,3754021,Yellow Card,40,40,3491
+112,24731461-6c23-426e-b5c7-277247e40a8d,2739,2,00:46:21.527,91,21,Bad Behaviour,182,Crystal Palace,From Free Kick,True,Crystal Palace,Pape N''Diaye Souaré,Left Back,0.0,3754026,Yellow Card,31,31,4884
+113,d82eeaa6-74b1-440d-8d72-5a08bd27af27,3177,2,00:41:02.921,86,2,Bad Behaviour,192,Sunderland,Regular Play,,Aston Villa,Carles Gil de Pareja Vicent,Left Midfield,0.0,3754036,Yellow Card,41,59,6800
+114,b7241022-47d2-4823-9483-030ce0f18f9e,3433,2,00:49:31.300,94,31,Bad Behaviour,208,Aston Villa,From Free Kick,,Aston Villa,Rudy Gestede,Left Center Forward,0.0,3754036,Yellow Card,59,59,19362
+115,456ff2b7-a2a7-409b-8d1f-9be9c3b8bafa,3434,2,00:49:31.417,94,31,Bad Behaviour,208,Aston Villa,From Free Kick,,Sunderland,Lee Cattermole,Center Defensive Midfield,0.0,3754036,Yellow Card,59,41,10783
+116,7f5e9789-da39-420c-8385-5c5e97385f9d,2468,2,00:22:29.214,67,29,Bad Behaviour,136,Chelsea,From Goal Kick,,West Bromwich Albion,Glyn Oliver Myhill,Goalkeeper,0.0,3754062,Yellow Card,33,27,5108
+117,b26ee7e0-60c7-4a7e-9d58-2d3b3906213d,2485,2,00:24:05.517,69,5,Bad Behaviour,138,West Bromwich Albion,From Free Kick,,Chelsea,Thibaut Courtois,Goalkeeper,0.0,3754062,Yellow Card,27,33,3509
+118,c384b57b-65ca-4083-a61a-f9c664e9592f,2486,2,00:24:06.497,69,6,Bad Behaviour,138,West Bromwich Albion,From Free Kick,,West Bromwich Albion,James McClean,Left Midfield,0.0,3754062,Yellow Card,27,27,3514
+119,ddfeade2-ddb1-423f-a209-3a8545131987,3050,2,00:31:54.974,76,54,Bad Behaviour,151,Aston Villa,Regular Play,,Aston Villa,Mark Bunn,Goalkeeper,0.0,3754063,Yellow Card,59,59,18672
+120,0c5a2911-cc46-4eed-a094-6534c6422b0a,2650,2,00:22:22.444,67,22,Bad Behaviour,125,Newcastle United,From Throw In,,Newcastle United,Daryl Janmaat,Right Back,0.0,3754069,Yellow Card,37,37,3650
+121,2b4b75aa-44f5-4e16-9610-b60c9717a642,3511,2,00:46:39.204,91,39,Bad Behaviour,172,Newcastle United,From Goal Kick,True,Arsenal,Mesut Özil,Center Attacking Midfield,0.0,3754069,Yellow Card,37,1,3496
+122,ef19810a-826e-4654-bbcb-be2ef124edc7,2447,2,00:21:53.144,66,53,Bad Behaviour,109,Swansea City,From Free Kick,,Sunderland,Vito Mannone,Goalkeeper,0.0,3754071,Yellow Card,26,41,9539
+123,77308840-a0f5-40b8-bdaf-1d77267c8273,1114,1,00:27:38.258,27,38,Bad Behaviour,61,Chelsea,From Free Kick,,Aston Villa,Idrissa Gana Gueye,Left Center Midfield,0.0,3754075,Yellow Card,33,59,3436
+124,96166d85-59ca-4f9f-828f-7477dcaba4ff,1115,1,00:27:44.737,27,44,Bad Behaviour,61,Chelsea,From Free Kick,,Chelsea,Francesc Fàbregas i Soler,Left Defensive Midfield,0.0,3754075,Yellow Card,33,33,3478
+125,6973daff-4681-4141-b4d1-1cc6930e9e6e,994,1,00:23:00.616,23,0,Bad Behaviour,48,Manchester United,From Free Kick,,Manchester United,Juan Manuel Mata García,Right Center Midfield,0.0,3754081,Yellow Card,39,39,3294
+126,8ed33c77-fa65-4ad8-a708-7a4d04fa0385,1353,1,00:39:32.632,39,32,Bad Behaviour,80,Crystal Palace,From Throw In,,Crystal Palace,Wilfried Zaha,Right Wing,0.0,3754089,Yellow Card,31,31,3507
+127,77965853-9638-4201-aeed-c54941caf810,2411,2,00:22:35.613,67,35,Bad Behaviour,136,AFC Bournemouth,From Keeper,True,Crystal Palace,Mile Jedinak,Right Defensive Midfield,0.0,3754089,Yellow Card,28,31,5489
+128,40fe8a43-4a25-4160-a4a9-710dc99c50de,2588,2,00:30:20.517,75,20,Bad Behaviour,152,Crystal Palace,Regular Play,,AFC Bournemouth,Steve Cook,Left Center Back,0.0,3754089,Yellow Card,31,28,3341
+129,488f033c-d06a-45f6-9aba-119d2ee0244a,2987,2,00:44:41.487,89,41,Bad Behaviour,179,Crystal Palace,From Free Kick,,AFC Bournemouth,Lewis Grabban,Right Midfield,0.0,3754089,Yellow Card,31,28,9593
+130,840e9f9e-6b85-4f27-b68b-018daaa807cf,1292,1,00:37:30.173,37,30,Bad Behaviour,77,Chelsea,Regular Play,,Tottenham Hotspur,Jan Vertonghen,Left Center Back,0.0,3754092,Yellow Card,33,38,3077
+131,ceaf2480-dae5-4bb1-b4f2-971031bb9d51,1538,1,00:45:52.909,45,52,Bad Behaviour,94,Chelsea,From Kick Off,,Chelsea,Willian Borges da Silva,Right Wing,0.0,3754092,Yellow Card,33,33,3472
+132,1ed79b9b-160b-442e-acb9-9c3fb4f23ca2,3144,2,00:42:05.941,87,5,Bad Behaviour,186,Chelsea,Regular Play,,Chelsea,John Michael Nchekwube Obinna,Right Defensive Midfield,0.0,3754092,Yellow Card,33,33,5475
+133,f00c97f3-15b8-44fe-8f24-02531b095ffe,3295,2,00:50:59.354,95,59,Bad Behaviour,198,Chelsea,Regular Play,True,Tottenham Hotspur,Mousa Sidi Yaya Dembélé,Left Center Back,0.0,3754092,Yellow Card,33,38,3037
+134,9cd6d137-6f78-4d0e-8797-58691f3169d7,3418,2,00:48:23.173,93,23,Bad Behaviour,173,Manchester City,Regular Play,True,Manchester City,Fernando Luiz Rosa,Left Center Midfield,0.0,3754095,Yellow Card,36,36,3054
+135,cf23d311-3b36-48bd-9130-3f59a9433e63,3466,2,00:49:56.200,94,56,Bad Behaviour,175,Sunderland,From Free Kick,,Manchester City,Bacary Sagna,Right Back,0.0,3754095,Yellow Card,41,36,7110
+136,0a087417-ec0f-49b9-a227-70edee214dff,2870,2,00:38:29.576,83,29,Bad Behaviour,169,Newcastle United,From Throw In,,Newcastle United,Aleksandar Mitrović,Center Forward,0.0,3754100,Yellow Card,37,37,4269
+137,03e00741-c1ce-4c72-a9c4-6077a026e612,3022,2,00:44:58.988,89,58,Bad Behaviour,184,Newcastle United,Regular Play,,Sunderland,Vito Mannone,Goalkeeper,0.0,3754100,Yellow Card,37,41,9539
+138,5df63f9c-1e91-41ea-84e5-19ddbc334a88,3030,2,00:42:12.819,87,12,Bad Behaviour,144,Southampton,From Throw In,True,Norwich City,Declan Rudd,Goalkeeper,0.0,3754101,Yellow Card,25,56,9014
+139,3b63f229-3662-4ecd-a257-81f0531deaaa,794,1,00:19:03.087,19,3,Bad Behaviour,39,Chelsea,From Free Kick,,Watford,Sebastian Prödl,Right Center Back,0.0,3754103,Yellow Card,33,23,3309
+140,a16b1066-764b-4e45-bd7a-bc0f160cd04a,1881,1,00:46:40.150,46,40,Bad Behaviour,84,Chelsea,Regular Play,,Watford,Juan Carlos Paredes Reasco,Right Back,0.0,3754103,Yellow Card,33,23,36983
+141,7b8dec4f-2dba-4afd-a0f1-6c25e0a16afe,2821,2,00:24:55.248,69,55,Bad Behaviour,129,Sunderland,From Throw In,True,Sunderland,Jermain Defoe,Center Forward,0.0,3754108,Yellow Card,41,41,3337
+142,f1c2d784-b096-48b4-8261-24b91050f4b1,3310,2,00:41:56.724,86,56,Bad Behaviour,154,Sunderland,Regular Play,,Sunderland,Younes Kaboul,Left Center Back,0.0,3754108,Yellow Card,41,41,4746
+143,3b543027-f602-4adb-b4e9-90f7a6b91636,1759,1,00:44:03.300,44,3,Bad Behaviour,81,Chelsea,From Free Kick,,Arsenal,Mathieu Flamini,Right Defensive Midfield,0.0,3754111,Yellow Card,33,1,6631
+144,25345d83-13f9-4fce-b807-883810f9bf10,3280,2,00:31:04.191,76,4,Bad Behaviour,180,Chelsea,From Goal Kick,,Swansea City,Ashley Williams,Left Center Back,0.0,3754116,Yellow Card,33,26,3644
+145,c8eb05a0-0580-42e8-863b-09e9d8ba30f0,3353,2,00:32:41.745,77,41,Bad Behaviour,185,Chelsea,Regular Play,,Chelsea,Francesc Fàbregas i Soler,Right Defensive Midfield,0.0,3754116,Yellow Card,33,33,3478
+146,4cfb1d11-32fa-47da-ab7d-68ef699a89c9,2837,2,00:37:44.588,82,44,Bad Behaviour,136,Southampton,Regular Play,True,Southampton,Jordy Clasie,Left Defensive Midfield,0.0,3754120,Yellow Card,25,25,16181
+147,dc246924-0fce-4c1b-995e-c86de19eeacd,2643,2,00:29:55.832,74,55,Bad Behaviour,151,West Bromwich Albion,From Goal Kick,,Stoke City,Marko Arnautović,Left Wing,0.0,3754122,Yellow Card,27,30,3325
+148,6cdb5012-4e5b-4ef1-a227-d5d4242967b2,3167,2,00:50:06.175,95,6,Bad Behaviour,207,West Bromwich Albion,Regular Play,,West Bromwich Albion,Chris Brunt,Left Back,0.0,3754122,Yellow Card,27,27,3541
+149,3efbe293-fd46-472d-9a2d-1740710a830a,3777,2,00:46:06.877,91,6,Bad Behaviour,158,Everton,From Corner,,Everton,José Ramiro Funes Mori,Left Center Back,0.0,3754125,Yellow Card,29,29,4629
+150,415ebaff-e9dc-47f8-858b-776eabbaf3ed,4044,2,00:54:02.010,99,2,Bad Behaviour,172,Everton,From Kick Off,True,Chelsea,John Terry,Left Center Back,0.0,3754125,Yellow Card,29,33,20287
+151,e75a16a3-7e5c-47c7-beca-c4f7c57f531a,2500,2,00:36:53.066,81,53,Bad Behaviour,173,Stoke City,Regular Play,,Stoke City,Gilbert Gianelli Imbula Wanga,Left Center Midfield,0.0,3754132,Yellow Card,30,30,4346
+152,03b0177e-c43a-4325-985c-228947d8772f,2659,2,00:44:06.594,89,6,Bad Behaviour,185,Stoke City,From Keeper,,Sunderland,Sebastian Larsson,Center Defensive Midfield,0.0,3754132,Yellow Card,30,41,5617
+153,00a6e5ec-4c89-4f5f-9088-ae7005f7f547,3248,2,00:45:30.561,90,30,Bad Behaviour,184,Southampton,Regular Play,,Southampton,James Ward-Prowse,Right Center Midfield,0.0,3754139,Yellow Card,25,25,3328
+154,d651a9d8-8306-4370-92c0-aae5e9cb7987,3351,2,00:30:26.264,75,26,Bad Behaviour,162,Tottenham Hotspur,Regular Play,True,Tottenham Hotspur,Tom Carroll,Right Wing,0.0,3754147,Yellow Card,38,38,3310
+155,0e9329bd-e285-4fe4-afa2-d81b868fcf63,1982,1,00:40:44.575,40,44,Bad Behaviour,93,Swansea City,From Throw In,,Manchester City,Kelechi Promise Iheanacho,Right Center Forward,0.0,3754149,Yellow Card,26,36,3708
+156,a99ce1c4-2135-4313-888d-2f1669a54a78,2817,2,00:40:30.257,85,30,Bad Behaviour,202,West Bromwich Albion,Regular Play,True,Watford,Troy Deeney,Left Center Forward,0.0,3754155,Yellow Card,27,23,3454
+157,b7db4971-0582-4771-949b-82dc55b5c386,3419,2,00:46:49.000,91,49,Bad Behaviour,179,Swansea City,From Free Kick,,Swansea City,Gylfi Þór Sigurðsson,Right Attacking Midfield,0.0,3754161,Yellow Card,26,26,3944
+158,666726db-3629-4fa1-b637-9f80423e395b,2282,2,00:06:47.575,51,47,Bad Behaviour,100,Everton,Regular Play,,Swansea City,Łukasz Fabiański,Goalkeeper,0.0,3754163,Yellow Card,29,26,3262
+159,509474ba-0267-4142-842e-ba06dbb7f474,2047,1,00:44:29.398,44,29,Bad Behaviour,86,Newcastle United,Regular Play,,AFC Bournemouth,Steve Cook,Left Center Back,0.0,3754177,Yellow Card,37,28,3341
+160,6a7f5139-8d09-4a14-816d-d7c85d519651,3761,2,00:43:09.700,88,9,Bad Behaviour,181,Newcastle United,From Corner,,AFC Bournemouth,Lewis Grabban,Left Center Forward,0.0,3754177,Yellow Card,37,28,9593
+161,444de9e2-2756-4f13-aa15-cc5c81d2d6eb,3274,2,00:47:34.680,92,34,Bad Behaviour,193,Crystal Palace,Regular Play,,Tottenham Hotspur,Harry Kane,Center Forward,0.0,3754179,Yellow Card,31,38,10955
+162,39e240a0-2916-42bf-a579-de6b58f0ba59,3275,2,00:47:41.556,92,41,Bad Behaviour,193,Crystal Palace,Regular Play,,Crystal Palace,Mile Jedinak,Center Attacking Midfield,0.0,3754179,Yellow Card,31,31,5489
+163,30a6733d-d84f-4552-9a38-56c723b08277,1085,1,00:30:17.782,30,17,Bad Behaviour,57,Crystal Palace,Regular Play,,Leicester City,Kasper Schmeichel,Goalkeeper,0.0,3754181,Yellow Card,31,22,3815
+164,1addb0da-e4cf-44d5-810c-19c6c0e760cc,2892,2,00:44:00.791,89,0,Bad Behaviour,176,Stoke City,From Corner,,Stoke City,Mame Biram Diouf,Center Forward,0.0,3754199,Yellow Card,30,30,3603
+165,8b6cd32a-a9b1-4de1-9baf-73d4ee52e820,2975,2,00:48:19.321,93,19,Bad Behaviour,183,Stoke City,Regular Play,,Stoke City,Shay Given,Goalkeeper,0.0,3754199,Yellow Card,30,30,20446
+166,85473e3d-e7b5-4890-80d3-f97cd54c4452,3035,2,00:37:13.897,82,13,Bad Behaviour,169,Manchester United,From Free Kick,,Manchester United,Memphis Depay,Right Wing,0.0,3754209,Yellow Card,39,39,2988
+167,fd456ad1-9783-4340-b948-d543a58d4595,3036,2,00:37:19.866,82,19,Bad Behaviour,169,Manchester United,From Free Kick,,Tottenham Hotspur,Kyle Walker,Right Back,0.0,3754209,Yellow Card,39,38,3205
+168,89e90f3b-965d-433d-a07f-c48d383d0ef7,2745,2,00:27:06.077,72,6,Bad Behaviour,160,West Bromwich Albion,Regular Play,,West Bromwich Albion,Craig Gardner,Right Midfield,0.0,3754215,Yellow Card,27,27,9485
+169,c228c5dd-223b-4797-adb1-7d1d6a950029,1125,1,00:31:54.181,31,54,Bad Behaviour,63,Leicester City,Regular Play,,West Bromwich Albion,Stéphane Sessègnon,Right Midfield,0.0,3754231,Yellow Card,22,27,2966
+170,576207ea-9330-4425-973d-562b4b4e434e,2723,2,00:24:56.384,69,56,Bad Behaviour,143,Arsenal,Regular Play,,Arsenal,Aaron Ramsey,Left Defensive Midfield,0.0,3754239,Yellow Card,1,1,3517
+171,0898398c-4d9d-44e9-bcec-c4d9247ded40,2724,2,00:26:22.816,71,22,Bad Behaviour,143,Arsenal,Regular Play,,Manchester United,Ander Herrera Agüera,Right Center Midfield,0.0,3754239,Yellow Card,1,39,3606
+172,488f65a8-2fe4-4c77-a134-bd33a2e93b64,2796,2,00:30:42.214,75,42,Bad Behaviour,153,Leicester City,Regular Play,True,Leicester City,Robert Huth,Left Center Back,0.0,3754250,Yellow Card,22,22,40123
+173,f7533c00-6b3e-4df1-a0d9-adbe92c41c2f,3051,2,00:39:04.431,84,4,Bad Behaviour,169,Leicester City,Regular Play,,Leicester City,Jamie Vardy,Left Center Forward,0.0,3754250,Yellow Card,22,22,10960
+174,3d512ef9-9033-4a7d-b47d-2f7deba0a1ee,3052,2,00:39:05.357,84,5,Bad Behaviour,169,Leicester City,Regular Play,,Aston Villa,Leandro Bacuna,Right Back,0.0,3754250,Yellow Card,22,59,9533
+175,facd11ae-b688-4e7f-9713-7000485ab14f,3283,2,00:42:04.279,87,4,Bad Behaviour,174,Everton,Regular Play,,Newcastle United,Jamaal Lascelles,Right Center Back,0.0,3754252,Yellow Card,29,37,3081
+176,78928c38-dab8-451b-9ea6-f05330a72bc2,1875,1,00:50:18.409,50,18,Bad Behaviour,100,Leicester City,From Free Kick,True,Arsenal,Daniel Nii Tackie Mensah Welbeck,Substitute,0.0,3754261,Yellow Card,22,1,3569
+177,976b1605-ac57-4d60-8f22-d9a8556c9bdc,2617,2,00:31:00.917,76,0,Bad Behaviour,150,West Ham United,Regular Play,,Everton,Joel Robles Blázquez,Goalkeeper,0.0,3754277,Yellow Card,40,29,16309
+178,eb354982-c935-4856-80da-9ec0700017f4,3145,2,00:45:54.851,90,54,Bad Behaviour,182,West Ham United,From Throw In,,West Ham United,Diafra Sakho,Right Center Forward,0.0,3754277,Yellow Card,40,40,3962
+179,fc8e6dbf-e52b-4894-83d7-725dbb186d6e,391,1,00:10:05.374,10,5,Bad Behaviour,23,Liverpool,From Corner,True,Liverpool,Roberto Firmino Barbosa de Oliveira,Center Forward,0.0,3754305,Yellow Card,24,24,3535
+180,2e064d59-7381-4396-9bf6-6ddac128422a,3035,2,00:42:23.411,87,23,Bad Behaviour,178,Norwich City,From Throw In,,Tottenham Hotspur,Danny Rose,Left Back,0.0,3754317,Yellow Card,56,38,3594
+181,dac38b39-9d6e-4112-8019-07fadd72f331,2571,2,00:20:40.152,65,40,Bad Behaviour,139,Tottenham Hotspur,From Corner,,Arsenal,Alexis Alejandro Sánchez Sánchez,Left Wing,0.0,3754318,Yellow Card,38,1,3385
+182,d1d0077c-bf23-4197-b40c-9011c12ea874,2536,2,00:18:17.848,63,17,Bad Behaviour,128,Swansea City,Regular Play,,Swansea City,Àngel Rangel Zaragoza,Right Back,0.0,3754319,Yellow Card,26,26,3973
+183,4f1b514a-c5ff-422d-90a5-0888bb01bf26,1748,1,00:44:29.624,44,29,Bad Behaviour,81,Aston Villa,From Throw In,,Aston Villa,Alan Hutton,Right Back,0.0,3754321,Yellow Card,59,59,9642
+184,0e4a3ffb-e07f-4b34-9ea8-97ae8ce40f2b,2252,2,00:19:48.561,64,48,Bad Behaviour,138,Crystal Palace,Regular Play,,Swansea City,Sung-Yeung Ki,Right Center Midfield,0.0,3754326,Yellow Card,31,26,3605
+185,85d44616-260e-48ec-8edb-336c7d03063f,1778,1,00:40:50.219,40,50,Bad Behaviour,83,Tottenham Hotspur,From Kick Off,True,Newcastle United,Rolando Aarons,Substitute,0.0,3754333,Yellow Card,38,37,3391
+186,b4d248ea-2cad-4d86-b2ab-7139716e0f48,3406,2,00:45:20.030,90,20,Bad Behaviour,185,West Ham United,Regular Play,,Newcastle United,Rob Elliot,Goalkeeper,0.0,3754338,Yellow Card,40,37,3096
+187,72915f01-eb2b-4d07-8051-4aa9ff1b77cb,3494,2,00:49:52.208,94,52,Bad Behaviour,192,Liverpool,From Throw In,,Liverpool,Adam David Lallana,Right Wing,0.0,3754348,Yellow Card,24,24,4090
+188,96e1479b-dfa2-4bad-81bf-d5843a3afd2d,1837,2,00:04:52.001,49,52,Bad Behaviour,96,West Bromwich Albion,Regular Play,,West Bromwich Albion,Darren Fletcher,Right Defensive Midfield,0.0,3754350,Yellow Card,27,27,4022
+189,b1fa3792-27a8-422a-8cf3-24357ee3bc8c,2780,2,00:30:00.349,75,0,Bad Behaviour,139,Everton,From Throw In,,West Bromwich Albion,Ben Foster,Goalkeeper,0.0,3754350,Yellow Card,29,27,4053
+190,1e3e0ac4-d231-4626-a0df-08cf71d5d3d0,3593,2,00:47:07.332,92,7,Bad Behaviour,142,Aston Villa,From Goal Kick,True,Aston Villa,Bradley Guzan,Goalkeeper,0.0,3754258,Yellow Card,59,59,12608
+191,0e71bd5c-1259-42b4-95e6-eddb9165039c,2776,2,00:29:13.331,74,13,Bad Behaviour,168,AFC Bournemouth,Regular Play,,Liverpool,Joe Gomez,Left Back,0.0,3754020,Yellow Card,28,24,3495
+192,69d23d9f-ca0e-48e0-bc74-58298eeb3173,2010,2,00:08:03.366,53,3,Bad Behaviour,110,Swansea City,Regular Play,,Chelsea,John Terry,Left Center Back,0.0,3754078,Yellow Card,26,33,20287
