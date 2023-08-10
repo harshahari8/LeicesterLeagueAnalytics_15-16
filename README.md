@@ -8,7 +8,7 @@ This repository offers an in-depth analysis of the historic Premier League 2015-
 ## Data Description
 
 ### 1. Data
-Encompasses the entire data journey, from initial extraction to exploratory data analysis (EDA) and visualizations. The collection of Jupyter notebook files within this directory meticulously documents each step of the process. Data extraction, data preprocessing, and the generation of insightful visualizations are systematically presented, offering transparency into the analytical journey.
+Encompasses the entire data journey, from initial extraction to exploratory data analysis (EDA) and visualizations. The collection of Jupyter notebook files within this directory documents each step of the process. Data extraction, data preprocessing, and the generation of insightful visualizations are systematically presented, offering transparency into the analytical journey.
 
 ### 2. Tables
 Contains the tables extracted from the data collection process. These tables play a foundational role throughout the project. Organized and structured for optimal analysis, these tables provide the data backbone upon which the entire analysis is built. 
